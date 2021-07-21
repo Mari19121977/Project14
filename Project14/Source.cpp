@@ -12,4 +12,7 @@ public:
 	}
 	virtual void add() = 0;
 
+
+	animals();
+
 };
